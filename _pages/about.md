@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-A data-driven personal website
+About me
 ======
 I’m a first-year Master’s student at the Institute of Computing Technology, Chinese Academy of Sciences ([ICT/CAS](http://www.ict.ac.cn/)), fortunate to be advised by [Prof. Fei Sun](https://ofey.me/). Before that, I obtained my B.E. degree at Beijing Institute of Technology ([BIT](https://www.bit.edu.cn/)).
 
