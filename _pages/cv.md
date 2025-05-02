@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You may find my CV here: [Honglin Wang’s Curriculum Vitae](https://../assets/CV_Honglin_Wang.pdf).
+You may find my CV here: [Honglin Wang’s Curriculum Vitae](https://honglinlwang.github.io/assets/CV_Honglin_Wang.pdf).
