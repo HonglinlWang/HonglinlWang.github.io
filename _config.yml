@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "whl_profile.png"
+  avatar           : "whl_profile.jpg"
   name             : "Honglin Wang（王泓林）"
   pronouns         : # example: "she/her"  
   bio              : "Master’s student at ICT, CAS"
